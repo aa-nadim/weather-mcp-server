@@ -1,0 +1,4 @@
+mcp --help
+
+
+mcp dev weather.py
